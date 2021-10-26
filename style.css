@@ -1,5 +1,4 @@
 .overall{
-    position: absolute;
     right: 0%;
     left: 0%;
     top: 0%;
@@ -24,16 +23,11 @@
     padding: 0% 0% 0% 0%;
     margin: 0%;
 }
-.midimages ul li{
-    position: absolute;
-    list-style: none;
-}
 .midimages{
-    padding: 0% 0% 0% 3%;
-    
+    padding: 5% 0% 0% 7%;
 }
 .activities{
-    padding: 29% 0% 0% 40%;
+    padding: 0% 0% 0% 40%;
 }
 
 .images-text{
@@ -119,7 +113,7 @@ u{
   }
   .heads{
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
   }
   .heads5{
     display: grid;
